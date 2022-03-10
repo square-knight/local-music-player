@@ -13,4 +13,4 @@ html
 
 #### 使用说明
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0707/151929_77e2deea_1546530.gif "m-player1.gif")
+![how to use](doc/show.gif)
